@@ -37,6 +37,9 @@
 11. Annotated Ethereum Roadmap
     - https://notes.ethereum.org/@domothy/roadmap
     - Domothy - Dec 28, 2022
+12. MEV on ETH2: MEV-boost, PBS, Danksharding... How do the pieces fit together? (devconnect 2022)
+    - https://www.youtube.com/watch?v=OD54WfVuDWw
+    - Vitalik - May 22, 2022
 
 ## relevant codebases & infrastructure links
 1. flashbots/mev-boost-relay
@@ -97,10 +100,56 @@
    - https://writings.flashbots.net/the-cost-of-resilience#:~:text=By%20setting%20the%20minimum%20bid,a%20third%20of%20the%20time.
    - Elaine, Hasu, Alejo - Nov 21, 2022
    - introduces `min-bid` for a heuristic approach to censorship resistance. 
+7. MEV-Boost: Merge ready Flashbots Architecture
+   - https://ethresear.ch/t/mev-boost-merge-ready-flashbots-architecture/11177 
+   - Stephane - Nov 4, 2021
 
-## data dashboards
+## specific proposals
+1. Two-slot proposer/builder separation
+   - https://ethresear.ch/t/two-slot-proposer-builder-separation/10980
+   - Vitalik - Oct 10, 2021
+2. Single-slot PBS using attesters as distributed availability oracle
+   - https://ethresear.ch/t/single-slot-pbs-using-attesters-as-distributed-availability-oracle/11877
+   - Vitalik - Jan 27, 2022
+3. Block vs. Slot Auctions PBS
+   - https://mirror.xyz/0x03c29504CEcCa30B93FF5774183a1358D41fbeB1/CPYI91s98cp9zKFkanKs_qotYzw09kWvouaAa9GXBrQ
+   - Julian - Dec 14, 2022
+4. Burning MEV through block proposer auctions
+   - https://ethresear.ch/t/burning-mev-through-block-proposer-auctions/14029
+   - Domothy - Oct 26, 2022
+5. Committee-driven MEV smoothing
+   - https://ethresear.ch/t/committee-driven-mev-smoothing/10408
+   - Francesco - Aug 23, 2021
+6. Unbundling PBS: Towards protocol-enforced proposer commitments (PEPC)
+   - https://ethresear.ch/t/unbundling-pbs-towards-protocol-enforced-proposer-commitments-pepc/13879
+   - Barnabe - Oct 8, 2022
 
 ## censorship resistance
+1. State of research: increasing censorship resistance of transactions under proposer/builder separation (PBS)
+   - https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance
+   - Vitalik - Jan 29, 2021
+2. PBS censorship-resistance alternatives
+   - https://notes.ethereum.org/@fradamt/H1TsYRfJc
+   - Francesco - Oct 12, 2022
+3. Forward inclusion list
+   - https://notes.ethereum.org/@fradamt/H1ZqdtrBF
+   - Francesco - Nov 15, 2022
+4. How much can we constrain builders without bringing back heavy burdens to proposers?
+   - https://ethresear.ch/t/how-much-can-we-constrain-builders-without-bringing-back-heavy-burdens-to-proposers/13808
+   - Vitalik - Oct 1, 2022
+5. Censorship Résistance & PBS (sbc 2022(
+   - https://www.youtube.com/watch?v=XZJcZ05d-Wo
+   - Justin - Sept 7, 2022
+
+## distributed builders
+1. Block-buidler Innovation Post-Merge (sbc 2022)
+  - https://www.youtube.com/watch?v=Yx20UUTmgfU
+  - Alex - Sept 7, 2022
+2. Decentralizing the Builder Role (sbc 2022)
+  - https://www.youtube.com/watch?v=fAgrIdyWIqc
+  - Vitalik - Sept 7, 2022
+
+## data dashboards
 
 ## misc
 
