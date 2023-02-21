@@ -34,6 +34,74 @@
 10. How much can we constrain builders without bringing back heavy burdens to proposers?
     - https://ethresear.ch/t/how-much-can-we-constrain-builders-without-bringing-back-heavy-burdens-to-proposers/13808
     - Vitalik - October 1, 2022
+11. Annotated Ethereum Roadmap
+    - https://notes.ethereum.org/@domothy/roadmap
+    - Domothy - Dec 28, 2022
 
+## relevant codebases & infrastructure links
+1. flashbots/mev-boost-relay
+   - https://github.com/flashbots/mev-boost-relay
+   - The canonical relay codebase. This is what we are building the [optimistic relay](https://github.com/flashbots/mev-boost-relay/pull/285) on top of.
+2. flashbots/mev-boost
+   - https://github.com/flashbots/mev-boost
+   - The validator EL (geth-fork) for interacting with the external builder network.
+3. flashbots/prysm
+   - https://github.com/flashbots/prysm
+   - The prysm fork used as the CL for the validation nodes of the relay and as the CL of the builder.
+4. flashbots/builder
+   - https://github.com/flashbots/builder
+   - The geth fork used as the EL of the builder.
+5. flashbots/block-validation-geth
+   - https://github.com/flashbots/block-validation-geth
+   - The geth fork used as the EL of the validation nodes in the relay.
+6. relayooor/geth
+   - https://github.com/relayooor/go-ethereum
+   - The geth fork used for the validation nodes of relay. Removes a few constraints from flashbots/block-validation-geth.
+7. flashbots/prio-load-balancer
+   - https://github.com/flashbots/prio-load-balancer
+   - The router that sits between the relay and the validation nodes and queues blocks.
+8. flashbots/relays-specs
+   - https://github.com/flashbots/relay-specs
+   - Defines the API for the relay data API and block submission.
+9. ethereum/builder-specs
+   - https://github.com/ethereum/builder-specs
+   - Defines the API for validators to outsource block building (naming is a bit confusing here, this is the API the proposer uses to talk to the relay, not the block builder).
+10. ralexstokes/mev-rs
+    - https://github.com/ralexstokes/mev-rs
+    - Rust toolkit for builders & builder network.
+11. ralexstokes/relay-monitor
+    - https://github.com/ralexstokes/relay-monitor
+    - A service to monitor the behavior of relays.
+
+## mev-boost (the software) r & d
+1. Running mev-boost at scale
+   - https://flashbots.notion.site/Running-mev-boost-relay-at-scale-4040ccd5186c425d9a860cbb29bbfe09
+   - Chris Hager - Nov 30, 2022
+   - Infrastructure notes for running a relay. Critical in understanding all the pieces.
+2. Toward an open research and development process for MEV-Boost
+   - https://collective.flashbots.net/t/toward-an-open-research-and-development-process-for-mev-boost/464/1
+   - Community discussion around the future of mev-boost software.
+3. Censorship Resistance: crlists in mev-boost
+   - https://github.com/flashbots/mev-boost/issues/215
+   - Quintus - July 15, 2022
+   - Proposal to add censorship-resistance lists to mev-boost.
+4. mev-boost with unconditional payments
+   - https://github.com/flashbots/mev-boost/issues/109
+   - Alex - April 28, 2022
+   - Very early "optimistic-style" mev-boost proposal.
+5. how does pos ethereum prevent bribery for late block proposal?
+   - https://github.com/flashbots/mev-boost/issues/111
+   - Alex - April 28, 2022
+   - Very early discussion of timing games implied by outsourcing block construction.
+6. The Cost of Resiliance
+   - https://writings.flashbots.net/the-cost-of-resilience#:~:text=By%20setting%20the%20minimum%20bid,a%20third%20of%20the%20time.
+   - Elaine, Hasu, Alejo - Nov 21, 2022
+   - introduces `min-bid` for a heuristic approach to censorship resistance. 
+
+## data dashboards
+
+## censorship resistance
+
+## misc
 
  
