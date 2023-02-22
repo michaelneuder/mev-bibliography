@@ -148,6 +148,9 @@
 2. Decentralizing the Builder Role (sbc 2022)
    - https://www.youtube.com/watch?v=fAgrIdyWIqc
    - Vitalik - Sept 7, 2022
+3. distributed block building (and exploring the builder design space, broadly)
+   - https://github.com/flashbots/mev-boost/issues/139
+   - Alex - June 7, 2022
 
 ## data dashboards
 1. https://www.mevwatch.info/
