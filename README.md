@@ -18,10 +18,10 @@
    - Barnabé - May 22, 2022
 5. Block building after the Merge (decvon 2022)
    - https://www.youtube.com/watch?v=KP5ppCRH0iM
-   - Alex - Oct 13, 2022
+   - Alex S. - Oct 13, 2022
 6. MEV-Boost, How Does it Work & What’s Missing? (sbc 2022)
    - https://www.youtube.com/watch?v=PS9SlHGJlrU
-   - Alex - Sep 7, 2022
+   - Alex S. - Sep 7, 2022
 7. MEV-boost: Merge ready Flashbots Architecture
    - https://ethresear.ch/t/mev-boost-merge-ready-flashbots-architecture/11177
    - Stephane - Nov 4, 2021
@@ -90,11 +90,11 @@
    - Proposal to add censorship-resistance lists to mev-boost.
 4. mev-boost with unconditional payments
    - https://github.com/flashbots/mev-boost/issues/109
-   - Alex - April 28, 2022
+   - Alex O. - April 28, 2022
    - Very early "optimistic-style" mev-boost proposal.
 5. how does pos ethereum prevent bribery for late block proposal?
    - https://github.com/flashbots/mev-boost/issues/111
-   - Alex - April 28, 2022
+   - Alex O. - April 28, 2022
    - Very early discussion of timing games implied by outsourcing block construction.
 6. The Cost of Resiliance
    - https://writings.flashbots.net/the-cost-of-resilience#:~:text=By%20setting%20the%20minimum%20bid,a%20third%20of%20the%20time.
@@ -144,13 +144,13 @@
 ## distributed builders
 1. Block-builder Innovation Post-Merge (sbc 2022)
    - https://www.youtube.com/watch?v=Yx20UUTmgfU
-   - Alex - Sept 7, 2022
+   - Alex S. - Sept 7, 2022
 2. Decentralizing the Builder Role (sbc 2022)
    - https://www.youtube.com/watch?v=fAgrIdyWIqc
    - Vitalik - Sept 7, 2022
 3. distributed block building (and exploring the builder design space, broadly)
    - https://github.com/flashbots/mev-boost/issues/139
-   - Alex - June 7, 2022
+   - Alex S. - June 7, 2022
 
 ## data dashboards
 1. https://www.mevwatch.info/
