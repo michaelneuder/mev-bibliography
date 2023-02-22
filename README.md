@@ -142,12 +142,12 @@
    - Justin - Sept 7, 2022
 
 ## distributed builders
-1. Block-buidler Innovation Post-Merge (sbc 2022)
-  - https://www.youtube.com/watch?v=Yx20UUTmgfU
-  - Alex - Sept 7, 2022
+1. Block-builder Innovation Post-Merge (sbc 2022)
+   - https://www.youtube.com/watch?v=Yx20UUTmgfU
+   - Alex - Sept 7, 2022
 2. Decentralizing the Builder Role (sbc 2022)
-  - https://www.youtube.com/watch?v=fAgrIdyWIqc
-  - Vitalik - Sept 7, 2022
+   - https://www.youtube.com/watch?v=fAgrIdyWIqc
+   - Vitalik - Sept 7, 2022
 
 ## data dashboards
 1. https://www.mevwatch.info/
