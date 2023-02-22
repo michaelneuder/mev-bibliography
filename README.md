@@ -122,7 +122,7 @@
    - Francesco - Aug 23, 2021
 6. Unbundling PBS: Towards protocol-enforced proposer commitments (PEPC)
    - https://ethresear.ch/t/unbundling-pbs-towards-protocol-enforced-proposer-commitments-pepc/13879
-   - Barnabe - Oct 8, 2022
+   - Barnabé - Oct 8, 2022
 
 ## censorship resistance
 1. State of research: increasing censorship resistance of transactions under proposer/builder separation (PBS)
