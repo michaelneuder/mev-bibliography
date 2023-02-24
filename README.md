@@ -16,7 +16,7 @@
 4. A study of the transaction supply chain from CryptoKitties to MEV-Boost to PBS (devconnect 2022) 
    - https://www.youtube.com/watch?v=jQjBNbEv9Mg
    - Barnabé - May 22, 2022
-5. Block building after the Merge (decvon 2022)
+5. Block building after the Merge (devcon 2022)
    - https://www.youtube.com/watch?v=KP5ppCRH0iM
    - Alex S. - Oct 13, 2022
 6. MEV-Boost, How Does it Work & What’s Missing? (sbc 2022)
@@ -153,12 +153,14 @@
    - Alex S. - June 7, 2022
 
 ## data dashboards
-1. https://www.mevwatch.info/
+1. https://www.mevwatch.info/ (only shows blocks from OFAC compliant relays vs those that are not OFAC compliant - does not actually verify)
 2. https://www.mevboost.org/
 3. https://mevboost.pics/
 4. https://beaconcha.in/relays
 5. https://transparency.flashbots.net/
 6. https://www.relayscan.io/
 7. https://collective.flashbots.net/t/relayscan-io-bulk-data-download/1208
+8. https://tornado-warning.info/
+9. https://eth.metrika.co/mev
 
  
