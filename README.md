@@ -140,6 +140,9 @@
 5. Censorship Résistance & PBS (sbc 2022(
    - https://www.youtube.com/watch?v=XZJcZ05d-Wo
    - Justin - Sept 7, 2022
+6. PANEL Censorship Resistance: Bridging the Gap (sbc 2022)
+   - https://www.youtube.com/watch?v=Z9VCdiSPJEQ
+   - Phil, Vitalik, Justin, Francesco, Zaki - Sept 7, 2022
 
 ## distributed builders
 1. Block-builder Innovation Post-Merge (sbc 2022)
