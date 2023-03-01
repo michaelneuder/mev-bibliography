@@ -75,6 +75,9 @@
 11. ralexstokes/relay-monitor
     - https://github.com/ralexstokes/relay-monitor
     - A service to monitor the behavior of relays.
+12. flashbots/go-boost-utils
+    - https://github.com/flashbots/go-boost-utils
+    - A small utils library for `mev-boost` types and signing.
 
 ## mev-boost (the software) r & d
 1. Running mev-boost at scale
