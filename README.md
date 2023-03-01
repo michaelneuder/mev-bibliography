@@ -103,6 +103,9 @@
 7. MEV-Boost: Merge ready Flashbots Architecture
    - https://ethresear.ch/t/mev-boost-merge-ready-flashbots-architecture/11177 
    - Stephane - Nov 4, 2021
+8. MEV-Boost Community Call #0 - 23 Feb 2023
+   - https://collective.flashbots.net/t/mev-boost-community-call-0-23-feb-2023/1348
+   - Organized by Alex S. - Feb 23, 2023
 
 ## specific proposals
 1. Two-slot proposer/builder separation
