@@ -109,7 +109,7 @@
 8. MEV-Boost Community Call #0 - 23 Feb 2023
    - https://collective.flashbots.net/t/mev-boost-community-call-0-23-feb-2023/1348
    - Organized by Alex S. - Feb 23, 2023
-9  Development next steps for PBS, roundtable at DevCon
+9.  Development next steps for PBS, roundtable at DevCon
    - https://collective.flashbots.net/t/development-next-steps-for-pbs-roundtable-at-devcon/438
    - Organized by chayoterabit - Oct 3, 2022
 
@@ -146,7 +146,7 @@
 4. How much can we constrain builders without bringing back heavy burdens to proposers?
    - https://ethresear.ch/t/how-much-can-we-constrain-builders-without-bringing-back-heavy-burdens-to-proposers/13808
    - Vitalik - Oct 1, 2022
-5. Censorship Résistance & PBS (sbc 2022(
+5. Censorship Résistance & PBS (sbc 2022)
    - https://www.youtube.com/watch?v=XZJcZ05d-Wo
    - Justin - Sept 7, 2022
 6. PANEL Censorship Resistance: Bridging the Gap (sbc 2022)
