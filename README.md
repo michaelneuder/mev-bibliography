@@ -110,8 +110,8 @@
    - https://collective.flashbots.net/t/mev-boost-community-call-0-23-feb-2023/1348
    - Organized by Alex S. - Feb 23, 2023
 9.  Development next steps for PBS, roundtable at DevCon
-   - https://collective.flashbots.net/t/development-next-steps-for-pbs-roundtable-at-devcon/438
-   - Organized by chayoterabit - Oct 3, 2022
+    - https://collective.flashbots.net/t/development-next-steps-for-pbs-roundtable-at-devcon/438
+    - Organized by chayoterabit - Oct 3, 2022
 
 ## specific proposals
 1. Two-slot proposer/builder separation
