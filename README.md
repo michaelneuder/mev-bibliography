@@ -78,6 +78,9 @@
 12. flashbots/go-boost-utils
     - https://github.com/flashbots/go-boost-utils
     - A small utils library for `mev-boost` types and signing.
+13. sigp/lighthouse
+    - https://github.com/sigp/lighthouse/issues/3355
+    - circuit breaker checks
 
 ## mev-boost (the software) r & d
 1. Running mev-boost at scale
@@ -112,6 +115,9 @@
 9.  Development next steps for PBS, roundtable at DevCon
     - https://collective.flashbots.net/t/development-next-steps-for-pbs-roundtable-at-devcon/438
     - Organized by chayoterabit - Oct 3, 2022
+10. mev-boost circuit breaker proposal
+    - https://hackmd.io/@ralexstokes/BJn9N6Thc
+    - stokes – July 27, 2022
 
 ## specific proposals
 1. Two-slot proposer/builder separation
