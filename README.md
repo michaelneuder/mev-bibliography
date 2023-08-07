@@ -158,6 +158,9 @@
 6. PANEL Censorship Resistance: Bridging the Gap (sbc 2022)
    - https://www.youtube.com/watch?v=Z9VCdiSPJEQ
    - Phil, Vitalik, Justin, Francesco, Zaki - Sept 7, 2022
+7. Censorship... wat do?
+   - https://joncharbonneau.substack.com/p/censorship-wat-do
+   - _Jon Charb, Oct 2022_
 
 ## distributed builders
 1. Block-builder Innovation Post-Merge (sbc 2022)
