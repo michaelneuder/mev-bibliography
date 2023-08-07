@@ -161,6 +161,9 @@
 7. Censorship... wat do?
    - https://joncharbonneau.substack.com/p/censorship-wat-do
    - _Jon Charb, Oct 2022_
+8. The litList (crList) Builder
+   - https://mirror.xyz/apriori.eth/Ow6EeeGXQ-6R1beflaO5ez6UOHx6KeJCZFVKTxiflMg
+   - _apriori, Oct 2022_
 
 ## distributed builders
 1. Block-builder Innovation Post-Merge (sbc 2022)
