@@ -168,11 +168,11 @@
    - https://research.eigenlayer.xyz/t/mev-boost-liveness-first-relay-design/15
    - _kydo, Aug 2023_
 10. Fun and games with inclusion lists
-   - https://ethresear.ch/t/fun-and-games-with-inclusion-lists/16557
-   - _Barnabé, Sept 2023_
+    - https://ethresear.ch/t/fun-and-games-with-inclusion-lists/16557
+    - _Barnabé, Sept 2023_
 11. Cumulative, Non-Expiring Inclusion Lists
-   - https://ethresear.ch/t/cumulative-non-expiring-inclusion-lists/16520
-   - _Toni, Sept 2023_
+    - https://ethresear.ch/t/cumulative-non-expiring-inclusion-lists/16520
+    - _Toni, Sept 2023_
 
 ## distributed builders
 1. Block-builder Innovation Post-Merge (sbc 2022)
