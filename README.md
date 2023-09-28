@@ -173,6 +173,9 @@
 11. Cumulative, Non-Expiring Inclusion Lists
     - https://ethresear.ch/t/cumulative-non-expiring-inclusion-lists/16520
     - _Toni, Sept 2023_
+12. Censorship Resistance in On-Chain Auctions
+    - https://uploads-ssl.webflow.com/642f3d0236c604d1022330f2/6499f35e0bd0f43471a95adc_MEV_Auctions_ArXiV_6.pdf
+    - _Elijah, Mallesh, Max, June 2023_
 
 ## distributed builders
 1. Block-builder Innovation Post-Merge (sbc 2022)
